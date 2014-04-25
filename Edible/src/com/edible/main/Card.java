@@ -5,6 +5,8 @@ import java.util.Date;
 import java.util.HashMap;
 
 
+//wan fang's first comment
+
 /**
  * Card (id, en, cn, bg, cat, info, memo, date, lat, log, editor)
  * @author Ming
