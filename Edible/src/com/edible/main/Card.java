@@ -6,6 +6,7 @@ import java.util.HashMap;
 
 
 //wan fang's first comment
+//wan fang's secon line
 
 /**
  * Card (id, en, cn, bg, cat, info, memo, date, lat, log, editor)
